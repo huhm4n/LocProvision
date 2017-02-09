@@ -24,10 +24,12 @@ LocProvision
  
  **Need to create shortcut of this and put it in Desktop. 
  
- -> vagrant_f (Where vagrant files for servers will be located)
+ 
+ 
+     -> vagrant_f (Where vagrant files for servers will be located)
       - ReadmeFirst.txt (Random file for git purpose, please delete it after you done cloning)
  
- -> vagrant_template (vagrant templates for applications)
+     -> vagrant_template (vagrant templates for applications)
         -> ansible
               - Vagrantfile
               -> provision
