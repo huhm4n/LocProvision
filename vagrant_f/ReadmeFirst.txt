@@ -1,0 +1,1 @@
+Once cloned on your local box, go ahead and delete this file
