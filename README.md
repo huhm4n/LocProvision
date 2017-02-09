@@ -22,10 +22,8 @@ LocProvision
               - menup_trigger.ps1 (trigger provision menu)
               - menupd_trigger.ps1 (trigger main menu)**
  
- **Need to create shortcut of this and put it in Desktop. 
- 
- 
- 
+      **Need to create shortcut of this and put it in Desktop. 
+  
      -> vagrant_f (Where vagrant files for servers will be located)
       - ReadmeFirst.txt (Random file for git purpose, please delete it after you done cloning)
  
