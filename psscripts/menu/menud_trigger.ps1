@@ -11,7 +11,7 @@ Menu-deProvision –Title 'Deprovision Application'
      } '3' {
          'not valid'
 	} 'b' {
-		 'not valid'
+		 Invoke-Expression C:\LocProvision\psscripts\menu\menupd_trigger.ps1
      } 'q' {
          return
      }

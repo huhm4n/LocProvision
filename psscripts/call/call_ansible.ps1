@@ -1,2 +1,2 @@
-. C:\LocProvision\psscripts\application\deploy_linux6.ps1
+. C:\LocProvision\psscripts\application\deploy_ansible.ps1
 Deploy-ansible -a ansible
