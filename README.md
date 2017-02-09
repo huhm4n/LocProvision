@@ -1,6 +1,8 @@
 # LocProvision
 Please read this before using it. (Well if you don't now, you'll come back for it anyways)
 
+Clone this to C:\ as C:\LocProvision for easy setup.
+
 Here's how the directories are setup:
 
 LocProvision
