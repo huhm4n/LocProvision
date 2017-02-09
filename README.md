@@ -4,8 +4,9 @@ Please read this before using it. (Well if you don't now, you'll come back for i
 Here's how the directories are setup:
 
 LocProvision
- -> psscripts
-        -> application (contains script to create directory, copy from templates, function to run vagrant command and notification)
+ psscripts
+ 
+       -> application (contains script to create directory, copy from templates, function to run vagrant command and notification)
               - deploy_ansible.ps1
               - deploy_linux6.ps1
               - deploy_linux7.ps1
